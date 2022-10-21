@@ -3,7 +3,7 @@ package conesionario;
 public class concesionario {
 	private String nombre;
 	private String direccion;
-//patatudp
+//patatudo
 	
 	public String getNombre() {
 		return nombre;
